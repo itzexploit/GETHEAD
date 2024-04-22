@@ -1,6 +1,6 @@
 # GETHEAD
 🖼  Welcome 🕶
-<br>
+
 ⭐ For Linux : [
 
 sudo apt-get install python3
